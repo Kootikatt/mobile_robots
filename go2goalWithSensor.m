@@ -21,6 +21,7 @@ xg=gPos(2);
 yg=gPos(1);
 
 %PID controller - or actually just a P controller
+%                                                       m
 P=10;
 
 %Tolerance distance for when to cancel simulation
